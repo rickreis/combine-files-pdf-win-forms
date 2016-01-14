@@ -1,7 +1,8 @@
-control-ftp-csharp
+Combine Files PDF
+
 ==================
 
--CreateDirectory
--DirectoryExists
--RenameFile
--Upload
+1-Inform File Name
+2-Select Destination Folder
+3-Upload Files (PDF)
+4-Save Files
